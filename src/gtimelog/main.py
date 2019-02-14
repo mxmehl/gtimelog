@@ -32,7 +32,6 @@ import logging
 import re
 import signal
 import smtplib
-import subprocess
 import sys
 from contextlib import closing
 from email.utils import parseaddr, formataddr
