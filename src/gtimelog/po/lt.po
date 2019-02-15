@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gtimelog 0.10.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-14 16:50+0200\n"
+"POT-Creation-Date: 2019-02-15 14:38+0200\n"
 "PO-Revision-Date: 2015-09-04 10:53+0300\n"
 "Last-Translator: Marius Gedminas <marius@gedmin.as>\n"
 "Language-Team: <marius@gedmin.as>\n"
@@ -299,6 +299,30 @@ msgstr "Kam"
 
 msgid "Nickname used in the Subject line"
 msgstr "Trumpas vardas temos laukeliui"
+
+msgid "SMTP server"
+msgstr "SMTP serveris"
+
+msgid "Security"
+msgstr "Saugumas"
+
+msgid "None"
+msgstr "nėra"
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "StartTLS"
+msgstr "StartTLS"
+
+msgid "Server"
+msgstr "Serveris"
+
+msgid "Port"
+msgstr "Prievadas"
+
+msgid "Username"
+msgstr "Naudotojo vardas"
 
 msgid "Email"
 msgstr "Paštas"

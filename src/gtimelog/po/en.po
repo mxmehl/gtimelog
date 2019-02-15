@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gtimelog 0.10.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-14 16:50+0200\n"
+"POT-Creation-Date: 2019-02-15 14:38+0200\n"
 "PO-Revision-Date: 2015-09-04 10:53+0300\n"
 "Last-Translator: Marius Gedminas <marius@gedmin.as>\n"
 "Language-Team: <marius@gedmin.as>\n"
@@ -291,6 +291,30 @@ msgid "To"
 msgstr ""
 
 msgid "Nickname used in the Subject line"
+msgstr ""
+
+msgid "SMTP server"
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "TLS"
+msgstr ""
+
+msgid "StartTLS"
+msgstr ""
+
+msgid "Server"
+msgstr ""
+
+msgid "Port"
+msgstr ""
+
+msgid "Username"
 msgstr ""
 
 msgid "Email"
